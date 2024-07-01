@@ -1,0 +1,352 @@
+[
+    {
+        "id": 1,
+        "name": "Alice Johnson",
+        "age": 20,
+        "major": "Computer Science",
+        "gpa": 3.8
+    },
+    {
+        "id": 2,
+        "name": "Bob Smith",
+        "age": 21,
+        "major": "Mathematics",
+        "gpa": 3.5
+    },
+    {
+        "id": 3,
+        "name": "Charlie Brown",
+        "age": 22,
+        "major": "Physics",
+        "gpa": 3.6
+    },
+    {
+        "id": 4,
+        "name": "Daisy Miller",
+        "age": 20,
+        "major": "Chemistry",
+        "gpa": 3.7
+    },
+    {
+        "id": 5,
+        "name": "Ethan Davis",
+        "age": 23,
+        "major": "Biology",
+        "gpa": 3.4
+    },
+    {
+        "id": 6,
+        "name": "Fiona Garcia",
+        "age": 21,
+        "major": "Engineering",
+        "gpa": 3.9
+    },
+    {
+        "id": 7,
+        "name": "George Martinez",
+        "age": 20,
+        "major": "History",
+        "gpa": 3.3
+    },
+    {
+        "id": 8,
+        "name": "Hannah Wilson",
+        "age": 22,
+        "major": "English",
+        "gpa": 3.8
+    },
+    {
+        "id": 9,
+        "name": "Ian Thomas",
+        "age": 21,
+        "major": "Art",
+        "gpa": 3.7
+    },
+    {
+        "id": 10,
+        "name": "Jack White",
+        "age": 23,
+        "major": "Music",
+        "gpa": 3.6
+    },
+    {
+        "id": 11,
+        "name": "Kara Moore",
+        "age": 20,
+        "major": "Political Science",
+        "gpa": 3.5
+    },
+    {
+        "id": 12,
+        "name": "Liam Harris",
+        "age": 22,
+        "major": "Economics",
+        "gpa": 3.4
+    },
+    {
+        "id": 13,
+        "name": "Mia Clark",
+        "age": 21,
+        "major": "Psychology",
+        "gpa": 3.9
+    },
+    {
+        "id": 14,
+        "name": "Noah Lewis",
+        "age": 23,
+        "major": "Sociology",
+        "gpa": 3.2
+    },
+    {
+        "id": 15,
+        "name": "Olivia Walker",
+        "age": 20,
+        "major": "Philosophy",
+        "gpa": 3.6
+    },
+    {
+        "id": 16,
+        "name": "Patrick Hall",
+        "age": 21,
+        "major": "Anthropology",
+        "gpa": 3.5
+    },
+    {
+        "id": 17,
+        "name": "Quinn Allen",
+        "age": 22,
+        "major": "Geology",
+        "gpa": 3.3
+    },
+    {
+        "id": 18,
+        "name": "Rachel Young",
+        "age": 23,
+        "major": "Environmental Science",
+        "gpa": 3.8
+    },
+    {
+        "id": 19,
+        "name": "Sam King",
+        "age": 20,
+        "major": "Marine Biology",
+        "gpa": 3.7
+    },
+    {
+        "id": 20,
+        "name": "Tina Wright",
+        "age": 21,
+        "major": "Linguistics",
+        "gpa": 3.4
+    },
+    {
+        "id": 21,
+        "name": "Umar Adams",
+        "age": 22,
+        "major": "Astronomy",
+        "gpa": 3.6
+    },
+    {
+        "id": 22,
+        "name": "Vera Baker",
+        "age": 23,
+        "major": "Journalism",
+        "gpa": 3.9
+    },
+    {
+        "id": 23,
+        "name": "Will Carter",
+        "age": 20,
+        "major": "Education",
+        "gpa": 3.2
+    },
+    {
+        "id": 24,
+        "name": "Xena Mitchell",
+        "age": 21,
+        "major": "Nursing",
+        "gpa": 3.8
+    },
+    {
+        "id": 25,
+        "name": "Yara Perez",
+        "age": 22,
+        "major": "Public Health",
+        "gpa": 3.5
+    },
+    {
+        "id": 26,
+        "name": "Zachary Roberts",
+        "age": 23,
+        "major": "Criminology",
+        "gpa": 3.6
+    },
+    {
+        "id": 27,
+        "name": "Abigail Turner",
+        "age": 20,
+        "major": "Social Work",
+        "gpa": 3.7
+    },
+    {
+        "id": 28,
+        "name": "Benjamin Parker",
+        "age": 21,
+        "major": "Business",
+        "gpa": 3.4
+    },
+    {
+        "id": 29,
+        "name": "Chloe Evans",
+        "age": 22,
+        "major": "Marketing",
+        "gpa": 3.5
+    },
+    {
+        "id": 30,
+        "name": "Daniel Murphy",
+        "age": 23,
+        "major": "Finance",
+        "gpa": 3.6
+    },
+    {
+        "id": 31,
+        "name": "Ella Cook",
+        "age": 20,
+        "major": "Accounting",
+        "gpa": 3.8
+    },
+    {
+        "id": 32,
+        "name": "Frank Rodriguez",
+        "age": 21,
+        "major": "Management",
+        "gpa": 3.2
+    },
+    {
+        "id": 33,
+        "name": "Grace Lopez",
+        "age": 22,
+        "major": "Human Resources",
+        "gpa": 3.7
+    },
+    {
+        "id": 34,
+        "name": "Henry Martinez",
+        "age": 23,
+        "major": "Operations Management",
+        "gpa": 3.9
+    },
+    {
+        "id": 35,
+        "name": "Isabella Wilson",
+        "age": 20,
+        "major": "Supply Chain Management",
+        "gpa": 3.4
+    },
+    {
+        "id": 36,
+        "name": "Jacob Hernandez",
+        "age": 21,
+        "major": "Information Systems",
+        "gpa": 3.6
+    },
+    {
+        "id": 37,
+        "name": "Katherine Johnson",
+        "age": 22,
+        "major": "International Business",
+        "gpa": 3.5
+    },
+    {
+        "id": 38,
+        "name": "Lucas Lewis",
+        "age": 23,
+        "major": "Entrepreneurship",
+        "gpa": 3.3
+    },
+    {
+        "id": 39,
+        "name": "Megan Walker",
+        "age": 20,
+        "major": "Real Estate",
+        "gpa": 3.6
+    },
+    {
+        "id": 40,
+        "name": "Nathan Clark",
+        "age": 21,
+        "major": "Hospitality Management",
+        "gpa": 3.2
+    },
+    {
+        "id": 41,
+        "name": "Olivia Allen",
+        "age": 22,
+        "major": "Tourism Management",
+        "gpa": 3.8
+    },
+    {
+        "id": 42,
+        "name": "Peter Hill",
+        "age": 23,
+        "major": "Hotel Management",
+        "gpa": 3.7
+    },
+    {
+        "id": 43,
+        "name": "Quinn King",
+        "age": 20,
+        "major": "Event Management",
+        "gpa": 3.5
+    },
+    {
+        "id": 44,
+        "name": "Rachel Young",
+        "age": 21,
+        "major": "Sport Management",
+        "gpa": 3.4
+    },
+    {
+        "id": 45,
+        "name": "Steven Adams",
+        "age": 22,
+        "major": "Culinary Arts",
+        "gpa": 3.6
+    },
+    {
+        "id": 46,
+        "name": "Thomas Baker",
+        "age": 23,
+        "major": "Food Science",
+        "gpa": 3.9
+    },
+    {
+        "id": 47,
+        "name": "Uma Carter",
+        "age": 20,
+        "major": "Nutrition",
+        "gpa": 3.3
+    },
+    {
+        "id": 48,
+        "name": "Violet Evans",
+        "age": 21,
+        "major": "Dietetics",
+        "gpa": 3.8
+    },
+    {
+        "id": 49,
+        "name": "William Parker",
+        "age": 22,
+        "major": "Exercise Science",
+        "gpa": 3.7
+    },
+    {
+        "id": 50,
+        "name": "Zoe Murphy",
+        "age": 23,
+        "major": "Kinesiology",
+        "gpa": 3.6
+    }
+]

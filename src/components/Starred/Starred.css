@@ -1,0 +1,37 @@
+.starredContainerInvisible {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.starredContainerInvisibleNoData {
+    display: none;
+}
+
+.starredContainer {
+    background-color: rgb(45, 33, 53);
+    width: 90%;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.nameTag {
+    border: solid 1px #8b5c99;
+    border-radius: 10px;
+    width: 15%;
+    padding: 5px;
+    margin: 5px;
+    background-color: rgb(59, 26, 64);
+    text-align: center;
+}
+@media screen and (max-width: 810px) {
+    .nameTag {
+        width: 25%;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .nameTag {
+        width: 100%;
+    }
+}
